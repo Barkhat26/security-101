@@ -1,4 +1,4 @@
-#File upload - null byte
+# File upload - null byte
 
 25 Points
 Gallery v0.04

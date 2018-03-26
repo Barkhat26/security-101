@@ -1,4 +1,4 @@
-#File upload - MIME type
+# File upload - MIME type
 
 20 Points
 Gallery v0.03

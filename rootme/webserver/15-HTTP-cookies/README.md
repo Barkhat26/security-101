@@ -1,4 +1,4 @@
-#HTTP cookies
+# HTTP cookies
 
 20 Points 
 Bob create a script to gather user’s email...

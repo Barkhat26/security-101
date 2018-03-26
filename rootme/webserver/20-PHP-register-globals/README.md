@@ -1,4 +1,4 @@
-#PHP register globals
+# PHP register globals
 
 25 Points
 
